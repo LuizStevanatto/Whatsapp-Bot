@@ -1,5 +1,5 @@
 # Whatsapp-Bot
-###Bot that sends message automatic on Whatsapp
+### Bot that sends message automatic on Whatsapp
 
 
 ## Demonstration
